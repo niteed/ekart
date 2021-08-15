@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690421445188",
+    "project_id": "online-shopping-app-95efc",
+    "storage_bucket": "online-shopping-app-95efc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690421445188:android:d63ef1de92abae5ba40211",
+        "android_client_info": {
+          "package_name": "com.nitee.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690421445188-tunbi20as5tdgsgjalagtcmlsis0ujjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLQoplCEnMkekDhf1bD6rFqydIQe2FjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690421445188-tunbi20as5tdgsgjalagtcmlsis0ujjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
